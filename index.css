@@ -1,0 +1,31 @@
+header{
+    margin-right: 50%;
+    margin-left: 50%;
+    color:chocolate;
+    font-size: larger;
+    padding: 0;
+}
+
+body{
+    background: whitesmoke;
+}
+div{
+    margin-left: 50%;
+    margin-right: 25%;
+    border: solid red 1px;
+}
+button{
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    color: white;
+    font-weight: bold;
+
+}
+.accept{
+    background-color: green;
+}
+.denied{
+    background-color: red;
+}
